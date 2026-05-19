@@ -1,0 +1,8 @@
+.env
+.env.example
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.git/
+qdrant_data/
